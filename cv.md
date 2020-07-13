@@ -2,4 +2,4 @@
 layout: default
 ---
 ## my CV
-<embed align="center" src="./pdf/rafika_cv.pdf" width="500" height=800">
+<embed align="center" src="./pdf/rafika_cv.pdf" width="500px" height=800px">
