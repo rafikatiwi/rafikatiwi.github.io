@@ -1,5 +1,4 @@
 ---
 layout: default
 ---
-## my CV
-<embed src="./pdf/rafika_cv.pdf" width="1000" height="1200">
+<embed src="./pdf/Rafikatiwi_CV-2.pdf" width="900" height="1000">
