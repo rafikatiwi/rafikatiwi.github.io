@@ -3,8 +3,8 @@ layout: default
 title: Rafikatiwi Nur Pujiarti
 ---
 ## Hi there, my name is Rafika.
-
-I'm a final semester master's student at [KAIST](https://www.kaist.ac.kr/en/) majoring in [Knowledge Service Engineering](https://kse.kaist.ac.kr/) and a member of [KIRC](http://kirc.kaist.ac.kr/) lab. My research interest lies in the fields of HCI: <br>
+<img align="left" width="400" height="400" src="./assets/profile_pic.jpg">
+I'm a final semester master's student at [KAIST](https://www.kaist.ac.kr/en/) majoring in [Knowledge Service Engineering](https://kse.kaist.ac.kr/) and a member of [KIRC](http://kirc.kaist.ac.kr/) lab. My interest lies in the fields of HCI, especially: <br>
 
 Human - Conversational Agents / Intelligent Agents interaction focusing on addressing social issues that arise within the interaction. <br>
 
