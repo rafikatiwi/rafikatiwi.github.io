@@ -10,4 +10,4 @@ Human - Conversational Agents / Intelligent Agents interaction focusing on addre
 
 Applying Data Science to analyze user behavior and to answer questions related to user's interaction with a product. <br>
 
-I am currently looking for Conversational UX Designer or Data Scientist position opportunities. Feel free to contact me if there is anything you would like to discuss! 
+I am currently looking for Conversational UX Designer or Data Scientist (preferably in dealing with user behavior data) position opportunities. Feel free to contact me if there is anything you would like to discuss! 
