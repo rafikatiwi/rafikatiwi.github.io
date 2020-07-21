@@ -15,7 +15,7 @@ Before getting into development, we made 10(+2) How-Might-We's or candidate solu
 Also, we came up with overall flow of our system:
 <img src="../assets/system_flow.jpg" alt="System-flow" border="0"></img>
 
-<b>My role</b>: Took part in designing the interaction between user and the robot using Google Cloud Speech-to-Text and Text-to-Speech and pulling the weather & and air condition data from OpenWeather and IQ Air Visual APIs, respectively. 
+<b>My role</b>: Took part in designing the interaction between user and the robot using Google Cloud Speech-to-Text and Text-to-Speech and pulling the weather and air condition data from OpenWeather and IQ Air Visual APIs, respectively. 
 
 Check out complete project description & source code on **[Github](https://github.com/WRafell/KSE624FinalProject)**.
 
