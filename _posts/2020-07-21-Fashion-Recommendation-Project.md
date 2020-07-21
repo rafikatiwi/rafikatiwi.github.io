@@ -11,5 +11,5 @@ Before getting into development, we made 10(+2) How-Might-We's or candidate solu
 <img src="https://i.ibb.co/8m8fMQh/Final-Presentation.jpg" alt="Final-Presentation" border="0"></a>
 
 Also, we came up with overall flow of our system:
-![image](./assets/system_flow.jpg)
+![image](../assets/system_flow.jpg)
 
