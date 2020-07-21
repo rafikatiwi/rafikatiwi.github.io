@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fashion Recommendation System Project"
-date: 2020-07-21
+date: 2020-06-01
 ---
 
 We built a speech-based robot that is able to recommend user what to wear depending on the weather & air condition. First, we asked several graduate students about how the weather change in South Korea influences what they wear and how do they usually deal with it. 
