@@ -13,7 +13,7 @@ Before getting into development, we made 10(+2) How-Might-We's or candidate solu
 <img src="https://i.ibb.co/8m8fMQh/Final-Presentation.jpg" alt="Final-Presentation" border="0">
 
 Also, we came up with overall flow of our system:
-![image]({{"./assets/system_flow.jpg"|absolute_url}})
+<img src="http://rafikatiwi.github.io/assets/system_flow.jpg">
 
 <b>My role</b>: Took part in designing the interaction between user and the robot using Google Cloud Speech-to-Text and Text-to-Speech and pulling the weather and air condition data from OpenWeather and IQ Air Visual APIs, respectively. 
 
