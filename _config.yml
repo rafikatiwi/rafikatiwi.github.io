@@ -1,3 +1,4 @@
 name: Rafika
 markdown: kramdown
 permalink: /portfolio/:year/:month/:day/:title
+BASE_PATH: /
