@@ -558,7 +558,7 @@ for idx, (X_train, y_train, X_test, y_test) in enumerate(K_FOLDS):
 ```
 
 I built models using XGBoost and LightGBM (with the resampled training dataset) and compared the cross validated model performance. I set the baseline using Dummy Classifier
-<img src="http://rafikatiwi.github.io/assets/sensor_data_project_modelevaluation.png"><br/>
+<img src="http://rafikatiwi.github.io/assets/sensor_data_project_modelevaluation.png", max-width: 100%; max-height: 100%;><br/>
 
 Best performance for each personality type
 
